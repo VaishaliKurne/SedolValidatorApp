@@ -1,0 +1,9 @@
+C:\Users\Vaishali\source\repos\SedolValidatorApp\bin\Debug\netstandard2.0\SedolValidatorApp.deps.json
+C:\Users\Vaishali\source\repos\SedolValidatorApp\bin\Debug\netstandard2.0\SedolValidatorApp.dll
+C:\Users\Vaishali\source\repos\SedolValidatorApp\bin\Debug\netstandard2.0\SedolValidatorApp.pdb
+C:\Users\Vaishali\source\repos\SedolValidatorApp\obj\Debug\netstandard2.0\SedolValidatorApp.csprojAssemblyReference.cache
+C:\Users\Vaishali\source\repos\SedolValidatorApp\obj\Debug\netstandard2.0\SedolValidatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Vaishali\source\repos\SedolValidatorApp\obj\Debug\netstandard2.0\SedolValidatorApp.AssemblyInfoInputs.cache
+C:\Users\Vaishali\source\repos\SedolValidatorApp\obj\Debug\netstandard2.0\SedolValidatorApp.AssemblyInfo.cs
+C:\Users\Vaishali\source\repos\SedolValidatorApp\obj\Debug\netstandard2.0\SedolValidatorApp.dll
+C:\Users\Vaishali\source\repos\SedolValidatorApp\obj\Debug\netstandard2.0\SedolValidatorApp.pdb
